@@ -1,0 +1,786 @@
+[
+  {
+    "Stansiya": "Xocəsən",
+    "Station": "Khojasan",
+    "coğrafi enliyi (latitude)": 40421499,
+    "coğrafi uzunluğu (longitude)": 49778066,
+    "yerləşdiyi ünvan": "Dairəvi yol",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Avtovağzal",
+    "Station": "Avtovaghzal",
+    "coğrafi enliyi (latitude)": 40421760,
+    "coğrafi uzunluğu (longitude)": 49796061,
+    "yerləşdiyi ünvan": "Bakı Sumqayıt yolu",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Avtovağzal",
+    "Station": "Avtovaghzal",
+    "coğrafi enliyi (latitude)": 40421344,
+    "coğrafi uzunluğu (longitude)": 49795113,
+    "yerləşdiyi ünvan": "Bakı Sumqayıt yolu",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Avtovağzal",
+    "Station": "Avtovaghzal",
+    "coğrafi enliyi (latitude)": 40420451,
+    "coğrafi uzunluğu (longitude)": 49795884,
+    "yerləşdiyi ünvan": "Bakı Sumqayıt yolu",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Avtovağzal",
+    "Station": "Avtovaghzal",
+    "coğrafi enliyi (latitude)": 40420312,
+    "coğrafi uzunluğu (longitude)": 49795509,
+    "yerləşdiyi ünvan": "Bakı Sumqayıt yolu",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Memar Əcəmi",
+    "Station": "Memar Ajami",
+    "coğrafi enliyi (latitude)": 40412073,
+    "coğrafi uzunluğu (longitude)": 49815008,
+    "yerləşdiyi ünvan": "Cavadxan küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Memar Əcəmi",
+    "Station": "Memar Ajami",
+    "coğrafi enliyi (latitude)": 40411792,
+    "coğrafi uzunluğu (longitude)": 49814919,
+    "yerləşdiyi ünvan": "Cavadxan küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Memar Əcəmi",
+    "Station": "Memar Ajami",
+    "coğrafi enliyi (latitude)": 40410435,
+    "coğrafi uzunluğu (longitude)": 49815237,
+    "yerləşdiyi ünvan": "Cavadxan küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Memar Əcəmi",
+    "Station": "Memar Ajami",
+    "coğrafi enliyi (latitude)": 40410251,
+    "coğrafi uzunluğu (longitude)": 49814793,
+    "yerləşdiyi ünvan": "Cavadxan küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Memar Əcəmi 2",
+    "Station": "Memar Ajami 2",
+    "coğrafi enliyi (latitude)": 40410365,
+    "coğrafi uzunluğu (longitude)": 49811939,
+    "yerləşdiyi ünvan": "Cavadxan küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Memar Əcəmi 2",
+    "Station": "Memar Ajami 2",
+    "coğrafi enliyi (latitude)": 40410717,
+    "coğrafi uzunluğu (longitude)": 49813700,
+    "yerləşdiyi ünvan": "Cavadxan küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "8 Noyabr",
+    "Station": "8 Novabr",
+    "coğrafi enliyi (latitude)": 40402263,
+    "coğrafi uzunluğu (longitude)": 49819552,
+    "yerləşdiyi ünvan": "Ceyhun Səlimov küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "8 Noyabr",
+    "Station": "8 Novabr",
+    "coğrafi enliyi (latitude)": 40401717,
+    "coğrafi uzunluğu (longitude)": 49820776,
+    "yerləşdiyi ünvan": "Ceyhun Səlimov küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "8 Noyabr",
+    "Station": "8 Novabr",
+    "coğrafi enliyi (latitude)": 40401370,
+    "coğrafi uzunluğu (longitude)": 49822054,
+    "yerləşdiyi ünvan": "Ceyhun Səlimov küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "8 Noyabr",
+    "Station": "8 Novabr",
+    "coğrafi enliyi (latitude)": 40402646,
+    "coğrafi uzunluğu (longitude)": 49819923,
+    "yerləşdiyi ünvan": "Ceyhun Səlimov küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Nəsimi",
+    "Station": "Nasimi",
+    "coğrafi enliyi (latitude)": 40424112,
+    "coğrafi uzunluğu (longitude)": 49824204,
+    "yerləşdiyi ünvan": "Svetlana Məmmədova küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Nəsimi",
+    "Station": "Nasimi",
+    "coğrafi enliyi (latitude)": 40424490,
+    "coğrafi uzunluğu (longitude)": 49824127,
+    "yerləşdiyi ünvan": "Svetlana Məmmədova küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Nəsimi",
+    "Station": "Nasimi",
+    "coğrafi enliyi (latitude)": 40424811,
+    "coğrafi uzunluğu (longitude)": 49826502,
+    "yerləşdiyi ünvan": "Svetlana Məmmədova küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Nəsimi",
+    "Station": "Nasimi",
+    "coğrafi enliyi (latitude)": 40424415,
+    "coğrafi uzunluğu (longitude)": 49826474,
+    "yerləşdiyi ünvan": "Svetlana Məmmədova küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Azadlıq prospekti",
+    "Station": "Azadliq prospekti",
+    "coğrafi enliyi (latitude)": 40425958,
+    "coğrafi uzunluğu (longitude)": 49842833,
+    "yerləşdiyi ünvan": "Süleyman sani Axundov küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Azadlıq prospekti",
+    "Station": "Azadliq prospekti",
+    "coğrafi enliyi (latitude)": 40425245,
+    "coğrafi uzunluğu (longitude)": 49842692,
+    "yerləşdiyi ünvan": "Süleyman sani Axundov küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Azadlıq prospekti",
+    "Station": "Azadliq prospekti",
+    "coğrafi enliyi (latitude)": 40425272,
+    "coğrafi uzunluğu (longitude)": 49840899,
+    "yerləşdiyi ünvan": "Süleyman sani Axundov küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Azadlıq prospekti",
+    "Station": "Azadliq prospekti",
+    "coğrafi enliyi (latitude)": 40425866,
+    "coğrafi uzunluğu (longitude)": 49840901,
+    "yerləşdiyi ünvan": "Süleyman sani Axundov küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Dərnəgül",
+    "Station": "Darnagul",
+    "coğrafi enliyi (latitude)": 40424955,
+    "coğrafi uzunluğu (longitude)": 49860638,
+    "yerləşdiyi ünvan": "Süleyman sani Axundov küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Dərnəgül",
+    "Station": "Darnagul",
+    "coğrafi enliyi (latitude)": 40425694,
+    "coğrafi uzunluğu (longitude)": 49860696,
+    "yerləşdiyi ünvan": "Süleyman sani Axundov küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Dərnəgül",
+    "Station": "Darnagul",
+    "coğrafi enliyi (latitude)": 40425625,
+    "coğrafi uzunluğu (longitude)": 49862902,
+    "yerləşdiyi ünvan": "Süleyman sani Axundov küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Dərnəgül",
+    "Station": "Darnagul",
+    "coğrafi enliyi (latitude)": 40424839,
+    "coğrafi uzunluğu (longitude)": 49862609,
+    "yerləşdiyi ünvan": "Süleyman sani Axundov küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "20 Yanvar",
+    "Station": "20 Yanvar",
+    "coğrafi enliyi (latitude)": 40403402,
+    "coğrafi uzunluğu (longitude)": 49807583,
+    "yerləşdiyi ünvan": "Zərdabi prospekti",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "20 Yanvar",
+    "Station": "20 Yanvar",
+    "coğrafi enliyi (latitude)": 40403369,
+    "coğrafi uzunluğu (longitude)": 49807902,
+    "yerləşdiyi ünvan": "Tblisi prospekti",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "20 Yanvar",
+    "Station": "20 Yanvar",
+    "coğrafi enliyi (latitude)": 40403537,
+    "coğrafi uzunluğu (longitude)": 49808488,
+    "yerləşdiyi ünvan": "Tblisi prospekti",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "20 Yanvar",
+    "Station": "20 Yanvar",
+    "coğrafi enliyi (latitude)": 40404820,
+    "coğrafi uzunluğu (longitude)": 49807982,
+    "yerləşdiyi ünvan": "Moskva prospekti",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "20 Yanvar",
+    "Station": "20 Yanvar",
+    "coğrafi enliyi (latitude)": 40404423,
+    "coğrafi uzunluğu (longitude)": 49807058,
+    "yerləşdiyi ünvan": "Moskva prospekti",
+    "Çıxış nörmələri": "Çıxış 5"
+  },
+  {
+    "Stansiya": "20 Yanvar",
+    "Station": "20 Yanvar",
+    "coğrafi enliyi (latitude)": 40402775,
+    "coğrafi uzunluğu (longitude)": 49807052,
+    "yerləşdiyi ünvan": "Zərdabi prospekti",
+    "Çıxış nörmələri": "Çıxış 6"
+  },
+  {
+    "Stansiya": "20 Yanvar",
+    "Station": "20 Yanvar",
+    "coğrafi enliyi (latitude)": 40403242,
+    "coğrafi uzunluğu (longitude)": 49806938,
+    "yerləşdiyi ünvan": "Zərdabi prospekti",
+    "Çıxış nörmələri": "Çıxış 7"
+  },
+  {
+    "Stansiya": "İnşaatçılar",
+    "Station": "Insahatchilar",
+    "coğrafi enliyi (latitude)": 40391379,
+    "coğrafi uzunluğu (longitude)": 49802764,
+    "yerləşdiyi ünvan": "Şərifzadə küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "İnşaatçılar",
+    "Station": "Insahatchilar",
+    "coğrafi enliyi (latitude)": 40391391,
+    "coğrafi uzunluğu (longitude)": 49802163,
+    "yerləşdiyi ünvan": "Şərifzadə küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "İnşaatçılar",
+    "Station": "Insahatchilar",
+    "coğrafi enliyi (latitude)": 40388998,
+    "coğrafi uzunluğu (longitude)": 49802512,
+    "yerləşdiyi ünvan": "Şərifzadə küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "İnşaatçılar",
+    "Station": "Insahatchilar",
+    "coğrafi enliyi (latitude)": 40388996,
+    "coğrafi uzunluğu (longitude)": 49803148,
+    "yerləşdiyi ünvan": "Şərifzadə küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Elmlər Akademiyası",
+    "Station": "Elmler Akademiyasi",
+    "coğrafi enliyi (latitude)": 40375083,
+    "coğrafi uzunluğu (longitude)": 49812417,
+    "yerləşdiyi ünvan": "Bəxtiyar Vahabzadə küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Elmlər Akademiyası",
+    "Station": "Elmler Akademiyasi",
+    "coğrafi enliyi (latitude)": 40375410,
+    "coğrafi uzunluğu (longitude)": 49811811,
+    "yerləşdiyi ünvan": "Bəxtiyar Vahabzadə küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Elmlər Akademiyası",
+    "Station": "Elmler Akademiyasi",
+    "coğrafi enliyi (latitude)": 40375308,
+    "coğrafi uzunluğu (longitude)": 49812390,
+    "yerləşdiyi ünvan": "Bəxtiyar Vahabzadə küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Elmlər Akademiyası",
+    "Station": "Elmler Akademiyasi",
+    "coğrafi enliyi (latitude)": 40375056,
+    "coğrafi uzunluğu (longitude)": 49811605,
+    "yerləşdiyi ünvan": "Bəxtiyar Vahabzadə küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Elmlər Akademiyası",
+    "Station": "Elmler Akademiyasi",
+    "coğrafi enliyi (latitude)": 40375105,
+    "coğrafi uzunluğu (longitude)": 49815491,
+    "yerləşdiyi ünvan": "Hüseyn Cavid küçəsi",
+    "Çıxış nörmələri": "Çıxış 5"
+  },
+  {
+    "Stansiya": "Nizami",
+    "Station": "Nizami",
+    "coğrafi enliyi (latitude)": 40379190,
+    "coğrafi uzunluğu (longitude)": 49830063,
+    "yerləşdiyi ünvan": "Cəfər Cabbarlı küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "28 May",
+    "Station": "28 May",
+    "coğrafi enliyi (latitude)": 40379712,
+    "coğrafi uzunluğu (longitude)": 49848843,
+    "yerləşdiyi ünvan": "Dilarə Əliyeva küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "28 May",
+    "Station": "28 May",
+    "coğrafi enliyi (latitude)": 40382710,
+    "coğrafi uzunluğu (longitude)": 49846801,
+    "yerləşdiyi ünvan": "Azadlıq prospekti",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Gənclik",
+    "Station": "Ganjlik",
+    "coğrafi enliyi (latitude)": 40400468,
+    "coğrafi uzunluğu (longitude)": 49850587,
+    "yerləşdiyi ünvan": "Fətəli xan Xoyski küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Gənclik",
+    "Station": "Ganjlik",
+    "coğrafi enliyi (latitude)": 40401303,
+    "coğrafi uzunluğu (longitude)": 49852152,
+    "yerləşdiyi ünvan": "Fətəli xan Xoyski küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Gənclik",
+    "Station": "Ganjlik",
+    "coğrafi enliyi (latitude)": 40400820,
+    "coğrafi uzunluğu (longitude)": 49851524,
+    "yerləşdiyi ünvan": "Fətəli xan Xoyski küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Gənclik",
+    "Station": "Ganjlik",
+    "coğrafi enliyi (latitude)": 40399895,
+    "coğrafi uzunluğu (longitude)": 49850974,
+    "yerləşdiyi ünvan": "Əhmədbəy Ağaoğlu küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Gənclik",
+    "Station": "Ganjlik",
+    "coğrafi enliyi (latitude)": 40400560,
+    "coğrafi uzunluğu (longitude)": 49852542,
+    "yerləşdiyi ünvan": "Vaqif prospekti",
+    "Çıxış nörmələri": "Çıxış 5"
+  },
+  {
+    "Stansiya": "Gənclik",
+    "Station": "Ganjlik",
+    "coğrafi enliyi (latitude)": 40399397,
+    "coğrafi uzunluğu (longitude)": 49850735,
+    "yerləşdiyi ünvan": "Əhmədbəy Ağaoğlu küçəsi",
+    "Çıxış nörmələri": "Çıxış 6"
+  },
+  {
+    "Stansiya": "Nəriman Nərimanov",
+    "Station": "Nariman Narimanov",
+    "coğrafi enliyi (latitude)": 40402540,
+    "coğrafi uzunluğu (longitude)": 49868876,
+    "yerləşdiyi ünvan": "Əhməd Rəcəbli küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Nəriman Nərimanov",
+    "Station": "Nariman Narimanov",
+    "coğrafi enliyi (latitude)": 40401952,
+    "coğrafi uzunluğu (longitude)": 49869499,
+    "yerləşdiyi ünvan": "Təbriz küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Nəriman Nərimanov",
+    "Station": "Nariman Narimanov",
+    "coğrafi enliyi (latitude)": 40402818,
+    "coğrafi uzunluğu (longitude)": 49871500,
+    "yerləşdiyi ünvan": "Təbriz küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Nəriman Nərimanov",
+    "Station": "Nariman Narimanov",
+    "coğrafi enliyi (latitude)": 40403389,
+    "coğrafi uzunluğu (longitude)": 49870936,
+    "yerləşdiyi ünvan": "Təbriz küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Ulduz",
+    "Station": "Ulduz",
+    "coğrafi enliyi (latitude)": 40414779,
+    "coğrafi uzunluğu (longitude)": 49892668,
+    "yerləşdiyi ünvan": "Rövşən Əliyev küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Ulduz",
+    "Station": "Ulduz",
+    "coğrafi enliyi (latitude)": 40415139,
+    "coğrafi uzunluğu (longitude)": 49892568,
+    "yerləşdiyi ünvan": "Rövşən Əliyev küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Ulduz",
+    "Station": "Ulduz",
+    "coğrafi enliyi (latitude)": 40414882,
+    "coğrafi uzunluğu (longitude)": 49890251,
+    "yerləşdiyi ünvan": "Araz küç",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Ulduz",
+    "Station": "Ulduz",
+    "coğrafi enliyi (latitude)": 40414343,
+    "coğrafi uzunluğu (longitude)": 49890401,
+    "yerləşdiyi ünvan": "Araz küç",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Koroğlu",
+    "Station": "Koroglu",
+    "coğrafi enliyi (latitude)": 40419433,
+    "coğrafi uzunluğu (longitude)": 49919821,
+    "yerləşdiyi ünvan": "Heydər Əliyev prospekti",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Koroğlu",
+    "Station": "Koroglu",
+    "coğrafi enliyi (latitude)": 40419647,
+    "coğrafi uzunluğu (longitude)": 49919581,
+    "yerləşdiyi ünvan": "Heydər Əliyev prospekti",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Koroğlu",
+    "Station": "Koroglu",
+    "coğrafi enliyi (latitude)": 40420956,
+    "coğrafi uzunluğu (longitude)": 49918028,
+    "yerləşdiyi ünvan": "Heydər Əliyev prospekti",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Koroğlu",
+    "Station": "Koroglu",
+    "coğrafi enliyi (latitude)": 40420251,
+    "coğrafi uzunluğu (longitude)": 49917757,
+    "yerləşdiyi ünvan": "Heydər Əliyev prospekti",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Koroğlu",
+    "Station": "Koroglu",
+    "coğrafi enliyi (latitude)": 40420122,
+    "coğrafi uzunluğu (longitude)": 49916497,
+    "yerləşdiyi ünvan": "Heydər Əliyev prospekti",
+    "Çıxış nörmələri": "Çıxış 5"
+  },
+  {
+    "Stansiya": "Koroğlu",
+    "Station": "Koroglu",
+    "coğrafi enliyi (latitude)": 40421491,
+    "coğrafi uzunluğu (longitude)": 49916440,
+    "yerləşdiyi ünvan": "Heydər Əliyev prospekti",
+    "Çıxış nörmələri": "Çıxış 6"
+  },
+  {
+    "Stansiya": "Koroğlu",
+    "Station": "Koroglu",
+    "coğrafi enliyi (latitude)": 40421699,
+    "coğrafi uzunluğu (longitude)": 49916555,
+    "yerləşdiyi ünvan": "Heydər Əliyev prospekti",
+    "Çıxış nörmələri": "Çıxış 7"
+  },
+  {
+    "Stansiya": "Qara Qarayev",
+    "Station": "Gara Garayev",
+    "coğrafi enliyi (latitude)": 40417506,
+    "coğrafi uzunluğu (longitude)": 49935540,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Qara Qarayev",
+    "Station": "Gara Garayev",
+    "coğrafi enliyi (latitude)": 40417063,
+    "coğrafi uzunluğu (longitude)": 49935335,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Qara Qarayev",
+    "Station": "Gara Garayev",
+    "coğrafi enliyi (latitude)": 40417579,
+    "coğrafi uzunluğu (longitude)": 49932686,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Qara Qarayev",
+    "Station": "Gara Garayev",
+    "coğrafi enliyi (latitude)": 40417519,
+    "coğrafi uzunluğu (longitude)": 49932970,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Qara Qarayev",
+    "Station": "Gara Garayev",
+    "coğrafi enliyi (latitude)": 40418048,
+    "coğrafi uzunluğu (longitude)": 49932773,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 5"
+  },
+  {
+    "Stansiya": "Qara Qarayev",
+    "Station": "Gara Garayev",
+    "coğrafi enliyi (latitude)": 40417962,
+    "coğrafi uzunluğu (longitude)": 49933199,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 6"
+  },
+  {
+    "Stansiya": "Neftçilər",
+    "Station": "Neftchilar",
+    "coğrafi enliyi (latitude)": 40411849,
+    "coğrafi uzunluğu (longitude)": 49942465,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Neftçilər",
+    "Station": "Neftchilar",
+    "coğrafi enliyi (latitude)": 40411564,
+    "coğrafi uzunluğu (longitude)": 49941833,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Neftçilər",
+    "Station": "Neftchilar",
+    "coğrafi enliyi (latitude)": 40410543,
+    "coğrafi uzunluğu (longitude)": 49943487,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Neftçilər",
+    "Station": "Neftchilar",
+    "coğrafi enliyi (latitude)": 40410051,
+    "coğrafi uzunluğu (longitude)": 49943848,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Neftçilər",
+    "Station": "Neftchilar",
+    "coğrafi enliyi (latitude)": 40409739,
+    "coğrafi uzunluğu (longitude)": 49943170,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 5"
+  },
+  {
+    "Stansiya": "Neftçilər",
+    "Station": "Neftchilar",
+    "coğrafi enliyi (latitude)": 40410267,
+    "coğrafi uzunluğu (longitude)": 49942772,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 6"
+  },
+  {
+    "Stansiya": "Xalqlar Dostluğu",
+    "Station": "Khalglar Dostlughu",
+    "coğrafi enliyi (latitude)": 40398585,
+    "coğrafi uzunluğu (longitude)": 49952052,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Xalqlar Dostluğu",
+    "Station": "Khalglar Dostlughu",
+    "coğrafi enliyi (latitude)": 40398356,
+    "coğrafi uzunluğu (longitude)": 49951620,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Xalqlar Dostluğu",
+    "Station": "Khalglar Dostlughu",
+    "coğrafi enliyi (latitude)": 40396683,
+    "coğrafi uzunluğu (longitude)": 49952848,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Xalqlar Dostluğu",
+    "Station": "Khalglar Dostlughu",
+    "coğrafi enliyi (latitude)": 40397126,
+    "coğrafi uzunluğu (longitude)": 49953076,
+    "yerləşdiyi ünvan": "Qara Qarayev prospekti",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Əhmədli",
+    "Station": "Akhmedli",
+    "coğrafi enliyi (latitude)": 40385988,
+    "coğrafi uzunluğu (longitude)": 49953697,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Əhmədli",
+    "Station": "Akhmedli",
+    "coğrafi enliyi (latitude)": 40385957,
+    "coğrafi uzunluğu (longitude)": 49954227,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Əhmədli",
+    "Station": "Akhmedli",
+    "coğrafi enliyi (latitude)": 40384344,
+    "coğrafi uzunluğu (longitude)": 49954252,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Əhmədli",
+    "Station": "Akhmedli",
+    "coğrafi enliyi (latitude)": 40384330,
+    "coğrafi uzunluğu (longitude)": 49953734,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Həzi Aslanov",
+    "Station": "Hazi Aslanov",
+    "coğrafi enliyi (latitude)": 40373863,
+    "coğrafi uzunluğu (longitude)": 49953849,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Həzi Aslanov",
+    "Station": "Hazi Aslanov",
+    "coğrafi enliyi (latitude)": 40373950,
+    "coğrafi uzunluğu (longitude)": 49953447,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Həzi Aslanov",
+    "Station": "Hazi Aslanov",
+    "coğrafi enliyi (latitude)": 40374094,
+    "coğrafi uzunluğu (longitude)": 49953456,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 3"
+  },
+  {
+    "Stansiya": "Həzi Aslanov",
+    "Station": "Hazi Aslanov",
+    "coğrafi enliyi (latitude)": 40372033,
+    "coğrafi uzunluğu (longitude)": 49953748,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 4"
+  },
+  {
+    "Stansiya": "Həzi Aslanov",
+    "Station": "Hazi Aslanov",
+    "coğrafi enliyi (latitude)": 40372109,
+    "coğrafi uzunluğu (longitude)": 49953110,
+    "yerləşdiyi ünvan": "Məhəmməd Hadi küçəsi",
+    "Çıxış nörmələri": "Çıxış 5"
+  },
+  {
+    "Stansiya": "Sahil",
+    "Station": "Sahil",
+    "coğrafi enliyi (latitude)": 40371751,
+    "coğrafi uzunluğu (longitude)": 49844644,
+    "yerləşdiyi ünvan": "Bülbül prospekti",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "İçərişəhər",
+    "Station": "Icherisheher",
+    "coğrafi enliyi (latitude)": 40365899,
+    "coğrafi uzunluğu (longitude)": 49831529,
+    "yerləşdiyi ünvan": "İstiqlaliyyət küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Cəfər Cabbarlı",
+    "Station": "Jafar Jabbarly",
+    "coğrafi enliyi (latitude)": 40379585,
+    "coğrafi uzunluğu (longitude)": 49848716,
+    "yerləşdiyi ünvan": "Dilarə Əliyeva küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Cəfər Cabbarlı",
+    "Station": "Jafar Jabbarly",
+    "coğrafi enliyi (latitude)": 40379608,
+    "coğrafi uzunluğu (longitude)": 49849222,
+    "yerləşdiyi ünvan": "Dilarə Əliyeva küçəsi",
+    "Çıxış nörmələri": "Çıxış 2"
+  },
+  {
+    "Stansiya": "Şah İsmayıl Xətai",
+    "Station": "Shah Ismail Khatai",
+    "coğrafi enliyi (latitude)": 40383066,
+    "coğrafi uzunluğu (longitude)": 49871971,
+    "yerləşdiyi ünvan": "Xocalı prospekti",
+    "Çıxış nörmələri": "Çıxış 1"
+  },
+  {
+    "Stansiya": "Bakmil",
+    "Station": "Bakmil",
+    "coğrafi enliyi (latitude)": 40414152,
+    "coğrafi uzunluğu (longitude)": 49879007,
+    "yerləşdiyi ünvan": "Ələsgər Qayıbov küçəsi",
+    "Çıxış nörmələri": "Çıxış 1"
+  }
+]
