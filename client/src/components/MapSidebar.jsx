@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import apiClient from '../api/apiClient';
 import './MapSidebar.css';
 
 export default function MapSidebar({ layers, setLayers, theme, setTheme }) {
     const [stats, setStats] = useState(null);
 
     useEffect(() => {
-        axios.get('/api/statistics')
+        apiClient.get('/statistics')
             .then(res => setStats(res.data))
             .catch(err => console.error("Error fetching stats:", err));
     }, []);

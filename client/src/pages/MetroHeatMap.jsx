@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import MapSidebar from '../components/MapSidebar';
 import StationDetailsPanel from '../components/StationDetailsPanel';
-import axios from 'axios';
+import apiClient from '../api/apiClient';
 import { METRO_LINES, LINE_COLORS } from '../constants/metroLines';
 
 export default function MetroHeatMap() {
@@ -49,8 +49,8 @@ export default function MetroHeatMap() {
         const fetchData = async () => {
             try {
                 const [stationsRes, exitsRes] = await Promise.all([
-                    axios.get('/api/stations'),
-                    axios.get('/api/exits')
+                    apiClient.get('/stations'),
+                    apiClient.get('/exits')
                 ]);
 
                 const stations = stationsRes.data;

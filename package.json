@@ -4,7 +4,12 @@
   "scripts": {
     "install-all": "npm install --prefix server && npm install --prefix client && npm install",
     "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
-    "share": "concurrently \"npm run dev\" \"npx --yes ngrok http 5173 --log=stdout\" \"node scripts/get-ngrok-url.js\""
+    "share": "concurrently \"npm run dev\" \"npx --yes ngrok http 5173 --log=stdout\" \"node scripts/get-ngrok-url.js\"",
+    "build": "npm run build --prefix client",
+    "build:all": "npm run build --prefix client && npm run build --prefix server",
+    "start": "npm start --prefix server",
+    "start:prod": "npm run build --prefix client && npm start --prefix server",
+    "preview": "npm run preview --prefix client"
   },
   "devDependencies": {
     "concurrently": "^8.2.0"
