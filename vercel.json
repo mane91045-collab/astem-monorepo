@@ -2,20 +2,5 @@
   "version": 2,
   "buildCommand": "npm run build --prefix client",
   "outputDirectory": "client/dist",
-  "env": {
-    "VITE_API_BASE_URL": "@vite_api_base_url"
-  },
-  "envs": {
-    "preview": {
-      "VITE_API_BASE_URL": {
-        "placeholder": "http://localhost:4000"
-      }
-    },
-    "production": {
-      "VITE_API_BASE_URL": {
-        "placeholder": "https://your-server-url.com"
-      }
-    }
-  },
   "regions": ["iad1"]
 }
