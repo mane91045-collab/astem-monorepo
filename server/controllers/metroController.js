@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const pool = require('../config/database');
 
 const PROCESSED_STATIONS_FILE = path.join(__dirname, '../databases/processed_stations.json');
 const RAW_EXITS_FILE = path.join(__dirname, '../databases/Coordinates for metro exits.json');

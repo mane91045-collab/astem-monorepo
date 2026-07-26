@@ -12,7 +12,8 @@
     "dotenv": "^16.0.0",
     "pg": "^8.11.3",
     "cors": "^2.8.5",
-    "axios": "^1.6.2"
+    "axios": "^1.6.2",
+    "serverless-http": "^3.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
